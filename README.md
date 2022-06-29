@@ -14,4 +14,8 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Vladislav-Volynskii&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hello!
+    <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"/>
+</h1>
 </div>
