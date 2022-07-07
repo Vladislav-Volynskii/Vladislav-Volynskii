@@ -16,21 +16,48 @@
   <img src="https://komarev.com/ghpvc/?username=Vladislav-Volynskii&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello!
-    <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="550" height="300"/>
 </div>
+
+---
+
 :man_technologist: About Me : <br>
 <div>
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Python Developer from Belarus.
   </div>
   
-- :police_officer: I’m working as a Customs Officer and want to completely change my life and start a career in IT.
+- I’m working as a Customs Officer and want to completely change my life and start a career in IT.
 
-- :seedling: Exploring Technical Content Writing.
+- Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve tasks on CodeWars and read tech articles.
+- In my free time, I solve tasks on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vladislav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volynsky-vladislav/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vladislav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volynsky-vladislav/)
+
+---
+
+:hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+:fire: My Stats :
+<br><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Volynskii&theme=dark&background=000000)](https://git.io/streak-stats)
+
