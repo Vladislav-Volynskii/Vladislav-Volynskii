@@ -60,4 +60,6 @@ I am a Python Developer from Belarus.
 :fire: My Stats :
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Volynskii&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-Volynskii&hide_border=true&layout=compact&theme=vision-flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
