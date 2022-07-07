@@ -26,3 +26,11 @@
 <div>
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
   </div>
+  
+- :police_officer: I’m working as a Customs Officer and want to completely change my life and start a career in IT.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve tasks on CodeWars and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vladislav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volynsky-vladislav/)
