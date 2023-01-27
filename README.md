@@ -25,7 +25,7 @@
 
 ---
 
-:See-No-Evil Monkey: About Me : <br>
+:man_technologist: About Me : <br>
 <div>
 I am a Salesforce Developer from Poland.
   </div>
