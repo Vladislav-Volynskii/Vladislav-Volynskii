@@ -30,7 +30,7 @@
 I am a Salesforce Developer from Poland.
   </div>
   
-	:desktop_computer: I’m working at Onix Consulting company.
+:desktop_computer: I’m working at Onix Consulting company.
 
 - Exploring Technical Content Writing.
 
