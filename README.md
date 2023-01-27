@@ -27,10 +27,10 @@
 
 :man_technologist: About Me : <br>
 <div>
-I am a Python Developer from Belarus.
+I am a Salesforce Developer from Poland.
   </div>
   
-- I’m working as a Customs Officer and want to completely change my life and start a career in IT.
+- I’m working .
 
 - Exploring Technical Content Writing.
 
