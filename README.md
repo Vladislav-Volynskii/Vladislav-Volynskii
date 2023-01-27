@@ -30,11 +30,11 @@
 I am a Salesforce Developer from Poland.
   </div>
   
-- I’m working .
+	:desktop_computer: I’m working at Onix Consulting company.
 
 - Exploring Technical Content Writing.
 
-- In my free time, I solve tasks on CodeWars and read tech articles.
+- In my free time I have different activities with my family, watch movies and series, solve tasks on CodeWars and read tech articles.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vladislav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volynsky-vladislav/)
 
