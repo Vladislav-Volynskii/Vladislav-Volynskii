@@ -28,7 +28,7 @@
 :man_technologist: About Me : <br>
 <div>
 I am a Salesforce Developer from Poland.
-  </div>
+  </div> <br>
   
 :desktop_computer: I’m working at Onix Consulting company.
 
